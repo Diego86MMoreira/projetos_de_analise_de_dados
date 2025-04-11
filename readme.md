@@ -28,3 +28,6 @@ Sinta-se à vontade! Caso queira tirar dúvidas, compartilhar ideias, sugestões
 
 ---
 
+## 🌐 Redes
+
+🔗 [LinkedIn](https://www.linkedin.com/in/diegommoreira-analista-dados) 
