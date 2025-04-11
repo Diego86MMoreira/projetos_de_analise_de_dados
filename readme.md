@@ -1,6 +1,7 @@
 <p align="center">
-  <img src="banner.png" alt="Banner Projetos" width="100%">
+  <img src="banner.png" alt="Banner Projetos" width="100%" style="max-height:180px; object-fit:cover; border-radius:6px;">
 </p>
+
 
 <br>
 
