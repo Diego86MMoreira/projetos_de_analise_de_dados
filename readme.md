@@ -14,11 +14,15 @@ Todos os projetos estão disponíveis aqui, e você também pode acessá-los con
 
 ### 🔗 Acesse por categoria:
 
-- 📊 [Todos os Projetos](#)  
-- 🐍 [Análises com Python](#)  
-- 🧮 [Análises com SQL](#)  
-- 🤖 [Machine Learning](#)  
-- 📈 [Análises com Ferramentas de BI](#)
+-  [Todos os Projetos](#)
+  
+-  [Análises com Python](#) (Em Desenvolvimento)
+  
+- [Análises com SQL](#) (Em Desenvolvimento) 
+  
+- [Machine Learning](#) (Em Desenvolvimento)
+  
+- [Análises com Ferramentas de BI](#) (Em Desenvolvimento) 
 
 ---
 
