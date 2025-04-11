@@ -1,3 +1,9 @@
+<p align="center">
+  <img src="banner.jpg" alt="Banner Projetos" width="100%">
+</p>
+
+<br>
+
 # 👋 Bem-vindo(a) ao meu repositório de projetos de análise de dados!
 
 Aqui você encontrará uma coleção de projetos nos quais venho trabalhando para aprimorar minhas habilidades em análise de dados.
