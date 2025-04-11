@@ -14,7 +14,7 @@ Todos os projetos estão disponíveis aqui, e você também pode acessá-los con
 
 ### 🔗 Acesse por categoria:
 
--  [Todos os Projetos](#)
+-  [Todos os Projetos](#) (Em Desenvolvimento)
   
 -  [Análises com Python](#) (Em Desenvolvimento)
   
