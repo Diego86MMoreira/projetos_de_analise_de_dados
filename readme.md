@@ -1,9 +1,3 @@
-<p align="center">
-  <img src="banner.png" alt="Banner Projetos" width="100%" style="max-height:100px; object-fit:cover; border-radius:6px;">
-</p>
-
-
-<br>
 
 # 👋 Bem-vindo(a) ao meu repositório de projetos de análise de dados!
 
@@ -25,11 +19,11 @@ Todos os projetos estão disponíveis aqui, e você também pode acessá-los con
   
 -  [Análises com Python](#) (Em Desenvolvimento)
   
--  [Análises com SQL](analises_sql/)
+-  [Análises com SQL](Analises_SQL)
   
 - [Machine Learning](#) (Em Desenvolvimento)
   
-- [Análises com Ferramentas de BI](#) (Em Desenvolvimento) 
+- [Análises com Ferramentas de BI](Analises_Ferramentas_BI/) 
 
 ---
 
