@@ -23,7 +23,7 @@ Todos os projetos estão disponíveis aqui, e você também pode acessá-los con
   
 - [Machine Learning](#) (Em Desenvolvimento)
   
-- [Análises com Ferramentas de BI](#) (Em Desenvolvimento) 
+- [Análises com Ferramentas de BI](Analises_Ferramentas_BI) 
 
 ---
 
