@@ -25,7 +25,7 @@ Todos os projetos estão disponíveis aqui, e você também pode acessá-los con
   
 -  [Análises com Python](#) (Em Desenvolvimento)
   
-- [Análises com SQL](#) (Em Desenvolvimento) 
+-  [Análises com SQL](analises_sql/)
   
 - [Machine Learning](#) (Em Desenvolvimento)
   
