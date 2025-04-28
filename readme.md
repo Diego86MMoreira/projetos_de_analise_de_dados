@@ -1,3 +1,10 @@
+<p align="center">
+  <img src="banner.png" alt="Banner Projetos" width="100%" style="max-height:100px; object-fit:cover; border-radius:6px;">
+</p>
+
+
+<br>
+
 # 👋 Bem-vindo(a) ao meu repositório de projetos de análise de dados!
 
 Aqui você encontrará uma coleção de projetos nos quais venho trabalhando para aprimorar minhas habilidades em análise de dados.
@@ -14,11 +21,15 @@ Todos os projetos estão disponíveis aqui, e você também pode acessá-los con
 
 ### 🔗 Acesse por categoria:
 
-- 📊 [Todos os Projetos](#)  
-- 🐍 [Análises com Python](#)  
-- 🧮 [Análises com SQL](#)  
-- 🤖 [Machine Learning](#)  
-- 📈 [Análises com Ferramentas de BI](#)
+-  [Todos os Projetos](#) (Em Desenvolvimento)
+  
+-  [Análises com Python](#) (Em Desenvolvimento)
+  
+-  [Análises com SQL](analises_sql/)
+  
+- [Machine Learning](#) (Em Desenvolvimento)
+  
+- [Análises com Ferramentas de BI](#) (Em Desenvolvimento) 
 
 ---
 
@@ -28,3 +39,6 @@ Sinta-se à vontade! Caso queira tirar dúvidas, compartilhar ideias, sugestões
 
 ---
 
+## 🌐 Redes
+
+🔗 [LinkedIn](https://www.linkedin.com/in/diegommoreira-analista-dados) 
