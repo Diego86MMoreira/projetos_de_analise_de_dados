@@ -1,9 +1,3 @@
-<p align="center">
-  <img src="banner.png" alt="Banner Projetos" width="100%" style="max-height:100px; object-fit:cover; border-radius:6px;">
-</p>
-
-
-<br>
 
 # 👋 Bem-vindo(a) ao meu repositório de projetos de análise de dados!
 
