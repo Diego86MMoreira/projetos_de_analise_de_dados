@@ -6,7 +6,7 @@ Aqui você encontrará os projetos que desenvolvi utilizando ferramentas de BI.
 
 ## 📂 Projetos
 
-- [Analise Operacional Transportadora](https://github.com/Diego86MMoreira/Analise_Operacional_Transportadora)
+- [Analise Operacional Transportadora](https://github.com/Diego86MMoreira/Analise_Transportadora.git)
 
 Este projeto apresenta uma análise de desempenho logístico utilizando dados fictícios de entregas realizadas por 
 transportadoras que prestam serviço a uma empresa de médio porte. Através da aplicação de modelagem dimensional, 
